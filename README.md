@@ -43,6 +43,8 @@ Due to the state of XML tooling, which is mainly limited to Java \*, I found it 
 
 _exaples may follow - PRs welocome_
 
+______________________________________________________________________
+
 ## XML, DTD, XSD, XSL, XSLT, XSL-FO & XPath
 
 Traduccion de: https://www.digicomp.ch/blog/2017/07/04/xml-dtd-xsd-xsl-xslt-xsl-fo-und-xpath-im-uberblick
