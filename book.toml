@@ -1,0 +1,15 @@
+[book]
+language = "es"
+multilingual = true
+src = "docs"
+title = "Manual de Factura Electronica"
+
+[build]
+build-dir = "docs/build"
+
+[output]
+[output.html]
+
+[output.linkcheck]
+
+[preprocessor]
